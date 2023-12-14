@@ -19,4 +19,4 @@ blocks instead of re-computing them. The experiment results show that the propos
 importance sampling provides up to 76% speedup and reduces carbon dioxide emissions by 71%
 during the searching stage.
 
-![frozen.pdf](https://github.com/ChenZ0220/Efficient-One-Shot-Neural-Architecture-Search-With-Progressive-Choice-Freezing/files/13669805/frozen.pdf?raw=true)
+![frozen.pdf](https://github.com/ChenZ0220/Efficient-One-Shot-Neural-Architecture-Search-With-Progressive-Choice-Freezing/files/13669908/frozen.pdf)
